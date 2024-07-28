@@ -10,7 +10,7 @@ hw-01 Simple contact menager
 #node index.js --action list
 ![Function list](https://raw.githubusercontent.com/Krzysztof-GoIT/goit-nodejs-app/main/img/list.png)
 
-#node index.js --action list
+#node index.js --action get
 ![Function get](https://raw.githubusercontent.com/Krzysztof-GoIT/goit-nodejs-app/main/img/get.png)
 
 #node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
