@@ -1,0 +1,27 @@
+{
+    "name": "goit-nodejs-app",
+    "version": "0.0.0-hw01",
+    "description": "GoIT Node.js Homework",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Krzysztof-GoIT/goit-nodejs-app.git"
+    },
+    "author": "Krzysztof Biernat GoIT",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/Krzysztof-GoIT/goit-nodejs-app/issues"
+    },
+    "homepage": "https://github.com/Krzysztof-GoIT/goit-nodejs-app#readme",
+    "dependencies": {
+        "commander": "^12.1.0",
+        "uuid": "^10.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}
